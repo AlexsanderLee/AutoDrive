@@ -12,4 +12,6 @@
 
 class Matrix(self):
     pass
+class Grade(self):
+    pass
 
