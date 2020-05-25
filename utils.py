@@ -7,4 +7,9 @@
          for user in M:
              for item in N:
                  if R[user][item] > 0:
-                    pass
+     
+                     pass
+
+class Matrix(self):
+    pass
+
